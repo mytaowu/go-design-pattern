@@ -1,6 +1,8 @@
 package _1_factory
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type ImplA struct{}
 
